@@ -1,4 +1,4 @@
----
+ ---
 title: "Exercise: JS Introduction and Variables"
 slug: "/js-introduction-and-variables-exercise"
 ---
